@@ -1,0 +1,3 @@
+SUCCESS  # GT4500
+SUCCESS  # primary fired
+FAIL     # secondary tried and failed
