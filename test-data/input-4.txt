@@ -1,4 +1,4 @@
-# TC4: ALL fires both stores
+# ALL fires both stores
 # 1 torpedo in each; after ALL both are empty -> next SINGLE fails
 GT4500,1,0,1,0
 TORPEDO,ALL

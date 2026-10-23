@@ -1,4 +1,4 @@
-# TC1: first SINGLE fires primary, next SINGLE alternates to secondary
+# first SINGLE fires primary, next SINGLE alternates to secondary
 # secondary always fails, so: 1st SUCCESS (primary), 2nd FAIL (secondary)
 GT4500,10,0,10,1.0
 TORPEDO,SINGLE  # primary
