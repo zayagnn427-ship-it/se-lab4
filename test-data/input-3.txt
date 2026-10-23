@@ -1,0 +1,3 @@
+# fired store fails -> ship does not try the other one
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE  # primary fails, secondary not tried

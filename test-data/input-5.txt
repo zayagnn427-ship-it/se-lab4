@@ -1,0 +1,3 @@
+# ALL returns SUCCESS if at least one store fired
+GT4500,10,1.0,10,0
+TORPEDO,ALL  # primary fails, secondary fires

@@ -1,0 +1,3 @@
+# TC6: first shot, primary empty -> ship fires secondary instead
+GT4500,0,0,1,0
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# TC7: primary fired last, then both stores empty -> FAIL
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary fires its only torpedo
+TORPEDO,SINGLE  # secondary empty, primary empty -> FAIL

@@ -1,0 +1,4 @@
+# next store (secondary) is empty -> ship fires primary again
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary empty -> primary again
